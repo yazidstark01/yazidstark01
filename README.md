@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- Now I'm studying in Universitas Negeri Semarang
+- How to reach me [linkendIn](https://www.linkedin.com/in/yazid-gunawan-5419991a2/)
 <!--
 **yazidstark01/yazidstark01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
